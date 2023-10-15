@@ -1,4 +1,4 @@
 # PSU Module
 
-![PSU Module](images/minilab-panel-psu.jpg)
+![PSU Module](images/panels/minilab-panel-psu.jpg)
 

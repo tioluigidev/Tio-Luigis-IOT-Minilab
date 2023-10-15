@@ -26,17 +26,17 @@ This is the open project of my IOT minilab. The process of documenting it is a w
 
 ## PSU Module
 
-![PSU Module](images/minilab-panel-psu.jpg)
+![PSU Module](images/panels/minilab-panel-psu.jpg)
 
 [PSU Module](readme-module-psu.md)
 
 ## USB Power Module
 
-![USB Power Module](images/minilab-panel-usbpower.jpg)
+![USB Power Module](images/panels/minilab-panel-usbpower.jpg)
 
 ## Raspberry Pi CPU Module
 
 ## USB Hub Module
 
-![USB Hub](images/minilab-panel-usbhub.jpg)
+![USB Hub](images/panels/minilab-panel-usbhub.jpg)
 
