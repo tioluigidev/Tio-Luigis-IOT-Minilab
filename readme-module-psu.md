@@ -4,5 +4,5 @@
 
 ## Schematics
 
-![PSU Module Schematics](images/schematics/schematics-powerswitch.png)
+![PSU Module Schematics](images/schematics/schematics-psumodule.jpg)
 
