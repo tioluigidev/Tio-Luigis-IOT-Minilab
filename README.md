@@ -15,28 +15,10 @@ This is the open project of my IOT minilab. The process of documenting it is a w
 - You can use it as a workbench tool too, providing an ATX PSU (3.3V, 5V, 12V and adjustable voltage), an USB PSU/charger, for those devices that use USB power cord and a small CPU module with USB hub for conecting to your IOT device on the workbench
 - Use ready-made parts, so you don´t have to make printed circuit boards
 
-## Blender Project
+## Structure and Modules
 
-![Blender project file](images/blender/screenshot01.jpg)
-[This Blender 3D file](readme-module-psu.md) is the original project I used to plan the construction of the minilab.
-
-## Rack Structure
-
-## Rear
-
-## PSU Module
-
-![PSU Module](images/panels/minilab-panel-psu.jpg)
-
-[PSU Module](readme-module-psu.md)
-
-## USB Power Module
-
-![USB Power Module](images/panels/minilab-panel-usbpower.jpg)
-
-## Raspberry Pi CPU Module
-
-## USB Hub Module
-
-![USB Hub](images/panels/minilab-panel-usbhub.jpg)
-
+|Picture|Documentation|
+|---|---|
+|![USB Hub Module](images/thumbs/thumb-usbhub.jpg)|.|
+|![USB Power Module](images/thumbs/thumb-usbpower.jpg)|.|
+|![PSU Module](images/thumbs/thumb-psu.jpg)|[PSU Module](readme-module-psu.md)|
