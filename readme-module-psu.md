@@ -18,13 +18,13 @@ The ATX PSU also powers a Workbench Module, used to provide voltage to workbench
 
 Caption|File|Prints|Description|
 |---|---|---|---|
-| 1|[psu.panel.front.stl](./3dprint/psu/psu.panel.front.stl) |1|ccc|
-| 2|[psu.base.stl](./3dprint/psu/psu.base.stl)               |1|ccc|
-| 3|[psu.cableguide.stl](./3dprint/psu/psu.cableguide.stl)   |1|ccc|
-| 4|[psu.circuitbreakersupport.stl](./3dprint/psu/psu.circuitbreakersupport.stl) |1|ccc|
-| 5|[potentiometersupport.stl](./3dprint/psu/psu.panel.potentiometersupport.stl) |1|ccc|
-| 6|[psu.panel.modulecover1.stl](./3dprint/psu/psu.panel.modulecover1.stl)       |1|ccc|
-| 7|[psu.panel.modulecover2.stl](./3dprint/psu/psu.panel.modulecover2.stl)       |1|ccc|
+| 1|[psu.base.stl](./3dprint/psu/psu.base.stl)               |1|ccc|
+| 2|[psu.cableguide.stl](./3dprint/psu/psu.cableguide.stl)   |1|ccc|
+| 3|[psu.circuitbreakersupport.stl](./3dprint/psu/psu.circuitbreakersupport.stl)     |1|ccc|
+| 4|[psu.potentiometersupport.stl](./3dprint/psu/psu.panel.potentiometersupport.stl) |1|ccc|
+| 5|[psu.panel.front.stl](./3dprint/psu/psu.panel.front.stl)                 |1|ccc|
+| 6|[psu.panel.modulecover1.stl](./3dprint/psu/psu.panel.modulecover1.stl)   |1|ccc|
+| 7|[psu.panel.modulecover2.stl](./3dprint/psu/psu.panel.modulecover2.stl)   |1|ccc|
 | 8|[psu.panel.circuitbreakerpanel.stl](./3dprint/psu/psu.panel.circuitbreakerpanel.stl)|1|ccc|
 | 9|[psu.panel.meterpanel.stl](./3dprint/psu/psu.panel.meterpanel.stl) |1|ccc|
 |10|[psu.panel.handler.stl](./3dprint/psu/psu.panel.handler.stl)       |2|ccc|
