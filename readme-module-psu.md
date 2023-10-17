@@ -54,6 +54,7 @@ Qty|Description|
 | 1|100K linear potentiometer (only if your breakout module came with a logarithmic one).|
 | 1 meter|2.5mm blue wire, for internal wiring. Maybe you don´t need this, if you use the power strip cord.|
 | 1 meter|2.5mm brown wire, for internal wiring. Maybe you don´t need this, if you use the power strip cord.|
+| 1 ~ 2 meters|0.30mm wire, for connect the ATX Power Switch and the Potentiometer to the ATX breakout module.|
 | 1 ~ 2 meters|Main power cord with plug.|
 | A lot|Nylon cable ties.|
 
