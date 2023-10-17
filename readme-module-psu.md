@@ -46,7 +46,7 @@ Qty|Description|
 | 1|ATX power supply. 250W is far enough.|
 | 1|ATX PSU breakout module (see pictures).|
 | 1|Power strip with 4 outlets.|
-| 1|6A circuit breaker. I uded a Tomzin C6 model.|
+| 1|6A circuit breaker. I uded a Tomzn C6 model.|
 | 1|Voltage and current meter (see pictures).|
 | 4|Terminal bars (see pictures).|
 | 1|Power plug.|
