@@ -16,7 +16,7 @@ The ATX PSU also powers a Workbench Module, used to provide voltage to workbench
 
 ## 3D Printed Parts
 
-To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. The original editable .blend file is included in the "3dprint" directory.
+To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. The original editable .blend files are also included in the "3dprint" directory.
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
