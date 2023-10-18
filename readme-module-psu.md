@@ -16,6 +16,8 @@ The ATX PSU also powers a Workbench Module, used to provide voltage to workbench
 
 ## 3D Printed Parts
 
+To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. 
+
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
 | 1|[psu.base.stl](./3dprint/psu/psu.base.stl)|1|0.8|No|Module base, wich supports the ATX PSU.|
@@ -34,10 +36,12 @@ Caption|File|Prints|Nozzle|Supports|Description|
 
 ## Paper Printed Parts
 
-|File|Description|
-|---|---|
-| 1|xxx|
-| 1|xxx|
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
+
+|File|Graphics File|Description|
+|---|---|---|
+|[print.psu.panel.pdf](./print/print.psu.panel.pdf)|[print.psu.panel.zip](./print/print.psu.panel.zip)|PSU Module front panel.|
+|[print.psu.panel.module.pdf](./print/print.psu.panel.module.pdf)|[print.psu.panel.module.zip](./print/print.psu.panel.module.zip)|Workbench PSU Module panel.|
 
 ## Shopping List
 
@@ -58,9 +62,6 @@ Qty|Description|
 | 1 ~ 2 meters|Main power cord with plug.|
 | A lot|Nylon cable ties.|
 
-## Notes
-
-aaa
 
 ## Pictures
 
