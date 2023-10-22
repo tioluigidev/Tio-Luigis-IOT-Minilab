@@ -42,6 +42,7 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 |---|---|---|
 |[print.psu.panel.pdf](./print/print.psu.panel.pdf)|[print.psu.panel.zip](./print/print.psu.panel.zip)|PSU Module front panel.|
 |[print.psu.panel.module.pdf](./print/print.psu.panel.module.pdf)|[print.psu.panel.module.zip](./print/print.psu.panel.module.zip)|Workbench PSU Module panel.|
+|[print.rear.labels.pdf](./print/print.rear.labels.pdf.pdf)|[print.rear.labels.zip](./print/print.rear.labels.zip)|Rear Terminal Bars labels.|
 
 ## Shopping List
 
