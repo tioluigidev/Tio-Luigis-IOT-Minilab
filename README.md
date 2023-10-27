@@ -20,5 +20,5 @@ This is the open project of my IOT minilab. The process of documenting it is a w
 |Picture|Documentation|
 |---|---|
 |![USB Hub Module](images/thumbs/thumb-usbhub.jpg)|.|
-|![USB Power Module](images/thumbs/thumb-usbpower.jpg)|.|
+|![USB Power Module](images/thumbs/thumb-usbpower.jpg)|[USB Power Module](readme-module-usbpower.md)|
 |![PSU Module](images/thumbs/thumb-psu.jpg)|[PSU Module](readme-module-psu.md)|

@@ -34,7 +34,7 @@ Caption|File|Prints|Nozzle|Supports|Description|
 |10|[psu.panel.handler.stl](./3dprint/psu/psu.panel.handler.stl)       |2|0.4|Maybe|Left and right module handler. I used supports.|
 
 
-![3D Printed Parts for PSU Module](images/3dprinted/3dprint-psumodule.jpg)
+![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-psu.jpg)
 
 ## Paper Printed Parts
 
