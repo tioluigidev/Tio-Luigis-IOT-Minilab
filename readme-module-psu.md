@@ -64,7 +64,23 @@ Qty|Description|
 | 1 ~ 2 meters|0.30mm wire, for connect the ATX Power Switch and the Potentiometer to the ATX breakout module.|
 | 1 ~ 2 meters|Main power cord with plug.|
 | A lot|Nylon cable ties.|
+|  4|Allen Bolt M5x6 Cylindrical Head.|
+| 24|Allen Bolt M5x6 Flat Head.|
+|  4|Spring Washer 5mm.|
+| 12|Hammer Nut M5.|
+|  8|Allen Bolt M3x20 with washer and pressure bolt.|
+| about 320g | PLA 3D print filament. |
 
+
+## Nuts and Bolts
+
+Picture|Description|
+|---|---|
+|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
+|![PSU Module](images/nutsandbolts/nutsandbolts04.jpg)|Spring Washer 5mm|
+|![PSU Module](images/nutsandbolts/nutsandbolts05.jpg)|Allen Bolt M3x20 (3mm on diameter, 20mm on lenght) with washer and pressure bolt.|
 
 ## Pictures
 

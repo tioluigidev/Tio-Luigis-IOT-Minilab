@@ -36,8 +36,20 @@ xxx
 
 ## Shopping List
 
-xxx
+Qty|Description|
+|---|---|
+| 10|Allen Bolt M5x6 Cylindrical Head.|
+|  4|Allen Bolt M5x6 Flat Head.|
+|  4|Hammer Nut M5.|
+| about 130g | PLA 3D print filament.|
 
+## Nuts and Bolts
+
+Picture|Description|
+|---|---|
+|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
 
 ## Pictures
 
