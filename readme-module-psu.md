@@ -6,7 +6,7 @@
 
 ![PSU Module](images/panels/panel-psu.jpg)
 
-The PSU (Power Supply Unity) Module is responsible to power up all the system. It´s the only module designed to be fixed (not easily removable). The main power switch is a 6A circuit breaker. In my project, I used a circuit breaker with residual current protection, to prevent electrical shock. There is also a power meter with a double display, for voltage and current measuring. The main power line ends in a power strip, in my case with 4 electrical outlets.
+The PSU (Power Supply Unity) Module is responsible to power up all the system. It´s the only module designed to be fixed (not so easily removable). The main power switch is a 6A circuit breaker. In my project, I used a circuit breaker with residual current protection, to prevent electrical shock. There is also a power meter with a double display, for voltage and current measuring. The main power line ends in a power strip, in my case with 4 electrical outlets.
 
 Connected to this power strip, there is an ATX Power Supply. For this project I used a 250W retail model. This ATX PSU powers the 4 terminal bars at the rear part of the rack. These terminal bars are used to power all the small circuits and IOT devices that uses 3.3V, 5V and/or 12V power.
 
@@ -44,7 +44,7 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 |---|---|---|
 |[print.psu.panel.pdf](./print/print.psu.panel.pdf)|[print.psu.panel.zip](./print/print.psu.panel.zip)|PSU Module front panel.|
 |[print.psu.panel.module.pdf](./print/print.psu.panel.module.pdf)|[print.psu.panel.module.zip](./print/print.psu.panel.module.zip)|Workbench PSU Module panel.|
-|[print.rear.labels.pdf](./print/print.rear.labels.pdf.pdf)|[print.rear.labels.zip](./print/print.rear.labels.zip)|Rear Terminal Bars labels.|
+|[print.rear.labels.pdf](./print/print.rear.labels.pdf)|[print.rear.labels.zip](./print/print.rear.labels.zip)|Rear Terminal Bars labels.|
 
 ## Shopping List
 
@@ -55,7 +55,7 @@ Qty|Description|
 | 1|Power strip with 4 outlets.|
 | 1|6A circuit breaker. I uded a Tomzn C6 model.|
 | 1|Voltage and current meter (see pictures).|
-| 4|Terminal bars (see pictures).|
+| 4|Terminal bars with 6 terminals each. I found mine in [this link](https://pt.aliexpress.com/item/1005004186912405.html).
 | 1|Power plug.|
 | 1|Power Switch. I used a margirius switch with protection cover.|
 | 1|100K linear potentiometer (only if your breakout module came with a logarithmic one).|
@@ -64,7 +64,7 @@ Qty|Description|
 | 1 ~ 2 meters|0.30mm wire, for connect the ATX Power Switch and the Potentiometer to the ATX breakout module.|
 | 1 ~ 2 meters|Main power cord with plug.|
 | A lot|Nylon cable ties.|
-|  4|Allen Bolt M5x6 Cylindrical Head.|
+|  8|Allen Bolt M5x6 Cylindrical Head.|
 | 24|Allen Bolt M5x6 Flat Head.|
 |  4|Spring Washer 5mm.|
 | 12|Hammer Nut M5.|
@@ -96,9 +96,11 @@ Picture|Description|
 
 ![PSU Module (ATX Breakout Module)](images/pictures/picture-psu-006.jpg)
 
-![PSU Module (ATX Breakout Module, as sold)](images/pictures/picture-psu-007.jpg)
+![ATX Breakout Module, as sold](images/pictures/picture-psu-007.jpg)
 
-![PSU Module (Circuit Breaker)](images/pictures/picture-psu-008.jpg)
+![Circuit Breaker](images/pictures/picture-psu-008.jpg)
 
-![PSU Module (Meter)](images/pictures/picture-psu-009.jpg)
+![Meter](images/pictures/picture-psu-009.jpg)
+
+![Terminal Bar](images/pictures/picture-psu-010.jpg)
 

@@ -6,11 +6,12 @@
 
 ![PSU Module](images/panels/panel-usbpower.jpg)
 
-xxx
+This module is intended to provide energy to devices powered directly by USB ports. These devices may be inside the minilab or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB charger with 4 standard ports and an extra port with Quick Charge 3.0 standard capabilities.
 
 ## Schematics
 
-xxx
+![USB Power Module Schematics](images/schematics/schematics-usbpowermodule.jpg)
+Important: It´s necessary to connect any GND point in the Charger to the GND terminal bar at the rear of the rack.
 
 ## 3D Printed Parts
 
@@ -32,16 +33,21 @@ Caption|File|Prints|Nozzle|Supports|Description|
 
 I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
 
-xxx
+|File|Graphics File|Description|
+|---|---|---|
+|[print.usbpower.panel.pdf](./print/print.usbpower.panel.pdf)|[print.usbpower.panel.zip](./print/print.usbpower.panel.zip)|USB Power Module front panel.|
 
 ## Shopping List
 
 Qty|Description|
 |---|---|
+|  1| USB Charger. I found mine in [this link](https://pt.aliexpress.com/item/32979578903.html), but I don´t know if "Tongdaytech" is the brand or the nome of the shop. |
 | 10|Allen Bolt M5x6 Cylindrical Head.|
 |  4|Allen Bolt M5x6 Flat Head.|
 |  4|Hammer Nut M5.|
 | about 130g | PLA 3D print filament.|
+
+
 
 ## Nuts and Bolts
 
@@ -60,4 +66,6 @@ Picture|Description|
 ![USB Power Module (inside right)](images/pictures/picture-usbpower-003.jpg)
 
 ![USB Power Module (inside left)](images/pictures/picture-usbpower-004.jpg)
+
+![USB Power Charger](images/pictures/picture-usbpower-005.jpg)
 
