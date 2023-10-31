@@ -1,7 +1,5 @@
 # USB Power Module
 
-
-
 ## Description
 
 ![PSU Module](images/panels/panel-usbpower.jpg)
@@ -41,11 +39,12 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 
 Qty|Description|
 |---|---|
-|  1| USB Charger. I found mine in [this link](https://pt.aliexpress.com/item/32979578903.html), but I don´t know if "Tongdaytech" is the brand or the nome of the shop. |
+|  1| USB Charger. I found mine in [this link](https://pt.aliexpress.com/item/32979578903.html), but I don´t know if "Tongdaytech" is the brand or the name of the shop. |
+| some|Nylon cable ties.|
 | 10|Allen Bolt M5x6 Cylindrical Head.|
 |  4|Allen Bolt M5x6 Flat Head.|
 |  4|Hammer Nut M5.|
-| about 130g | PLA 3D print filament.|
+| ~ 130g | PLA 3D print filament.|
 
 
 

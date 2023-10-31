@@ -1,7 +1,5 @@
 # PSU Module
 
-
-
 ## Description
 
 ![PSU Module](images/panels/panel-psu.jpg)
@@ -69,7 +67,7 @@ Qty|Description|
 |  4|Spring Washer 5mm.|
 | 12|Hammer Nut M5.|
 |  8|Allen Bolt M3x20 with washer and pressure bolt.|
-| about 320g | PLA 3D print filament. |
+| ~ 320g | PLA 3D print filament. |
 
 
 ## Nuts and Bolts
