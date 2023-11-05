@@ -1,14 +1,14 @@
-# USB Hub Module
+# Raspberry Pi CPU Module
 
 ## Description
 
 ![PSU Module](images/panels/panel-usbhub.jpg)
 
-This module is intended to provide USB connectivity from the CPU to other devices. These devices may be inside the minilab or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB hub with 4 ports. I chose this model because it has the USB ports well away from each other, and this is an important detail for a project I want to do in a near future.
+...
 
 ## Schematics
 
-![USB Power Module Schematics](images/schematics/schematics-usbhubmodule.jpg)
+![Raspberry Pi CPU Module Schematics](images/schematics/schematics-rpicpumodule.jpg)
 
 ## 3D Printed Parts
 
@@ -25,7 +25,7 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 7|[usbhub.panel.handler.stl](./3dprint/usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
 
-![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-usbhub.jpg)
+![3D Printed Parts for Raspberry Pi CPU Module](images/3dprinted/3dprint-module-rpicpu.jpg)
 
 ## Paper Printed Parts
 
@@ -33,7 +33,7 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 
 |File|Graphics File|Description|
 |---|---|---|
-|[print.usbhub.panel.pdf](./print/print.usbhub.panel.pdf)|[print.usbhub.panel.zip](./print/print.usbhub.panel.zip)|USB Hub Module front panel.|
+|[print.rpicpu.panel.pdf](./print/print.rpicpu.panel.pdf)|[print.rpicpu.panel.zip](./print/print.rpicpu.panel.zip)|Raspberry Pi CPU Module front panel.|
 
 ## Shopping List
 
@@ -58,10 +58,10 @@ Picture|Description|
 
 ## Pictures
 
-![USB Hub Module (whole)](images/pictures/picture-usbhub-001.jpg)
+![Raspberry Pi CPU Module (whole)](images/pictures/picture-rpicpu-001.jpg)
 
-![USB Hub Module (right)](images/pictures/picture-usbhub-002.jpg)
+![Raspberry Pi CPU Module (left)](images/pictures/picture-rpicpu-002.jpg)
 
-![USB Hub Module (left)](images/pictures/picture-usbhub-003.jpg)
+![Raspberry Pi CPU (right)](images/pictures/picture-rpicpu-003.jpg)
 
 
