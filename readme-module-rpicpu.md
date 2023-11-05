@@ -64,4 +64,6 @@ Picture|Description|
 
 ![Raspberry Pi CPU (right)](images/pictures/picture-rpicpu-003.jpg)
 
+![Raspberry Pi CPU (Raspberry Pi and Cooler)](images/pictures/picture-rpicpu-004.jpg)
+
 

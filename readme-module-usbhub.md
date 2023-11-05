@@ -64,4 +64,6 @@ Picture|Description|
 
 ![USB Hub Module (left)](images/pictures/picture-usbhub-003.jpg)
 
+![USB Hub](images/pictures/picture-usbhub-004.jpg)
+
 
