@@ -4,7 +4,7 @@
 
 ![Raspberry Pi CPU Module](images/panels/panel-rpicpu.jpg)
 
-...
+This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to the Raspberry Pi SPI interface. One for system status and another one for application informations. I also decided to use a Ultra Thin Ice Tower Cooler, because in addition to the 2 power wires, it also has a third wire through which the fan speed can be measured. I also decided to use a 400 points breadboard, for a small hacking space.
 
 ## Schematics
 
@@ -17,13 +17,12 @@ To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Som
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
 | 1|[rpicpu.base.stl](./3dprint/rpicpu/rpicpu.base.stl)|1|0.8|No|Module base.|
-| 2|[rpicpu.innersupport.left.stl](./3dprint/rpicpu/rpicpu.innersupport.left.stl)|1|0.4|Maybe|Left inner support for the usb hub circuit.|
-| 3|[rpicpu.innersupport.right.stl](./3dprint/rpicpu/rpicpu.innersupport.right.stl)|1|0.4|Maybe|Right inner support for the usb hub circuit.|
+| 2|[rpicpu.innersupport.left.stl](./3dprint/rpicpu/rpicpu.innersupport.left.stl)|1|0.4|Maybe|Left inner support.|
+| 3|[rpicpu.innersupport.right.stl](./3dprint/rpicpu/rpicpu.innersupport.right.stl)|1|0.4|Maybe|Right inner support.|
 | 4|[rpicpu.panel.lcdsupport.stl](./3dprint/rpicpu/rpicpu.panel.lcdsupport.stl) |1|0.4|Yes|Inner support for LCD modules.|
 | 5|[rpicpu.panel.front.stl](./3dprint/rpicpu/rpicpu.panel.front.stl) |1|0.8|Yes|Front panel for the module.|
 | 6|[rpicpu.panel.powerpanel.stl](./3dprint/rpicpu/rpicpu.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
 | 7|[rpicpu.panel.handler.stl](./3dprint/rpicpu/rpicpu.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
-
 
 ![3D Printed Parts for Raspberry Pi CPU Module](images/3dprinted/3dprint-module-rpicpu.jpg)
 
@@ -39,11 +38,23 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 
 Qty|Description|
 |---|---|
-|  1| USB Hub. I found mine in [this link](https://pt.aliexpress.com/item/1005001774949015.html). |
-| some|Nylon cable ties.|
-|  4|Allen Bolt M5x6 Cylindrical Head.|
-|  8|Allen Bolt M5x6 Flat Head.|
-|  4|Hammer Nut M5.|
+| 1 | Raspberry Pi board.|
+| 1 | Ice Cube Cooler for Raspberry Pi (see Pictures). I found mine in [this link](https://pt.aliexpress.com/item/1005004647625855.html).|
+| 2 | Nokia 5110 LCD displays (see Pictures).|
+| 1 | 400 points breadboard (see Pictures).|
+| 1 | Kit with 40 female-male jumpers 10cm min. length (see pictures).|
+| 1 |Margirius lever microswitch bipolar with 2 positions (on/off).|
+| 1 meter|0.30mm black wire.|
+| 1 meter|0.30mm red wire.|
+| 1 meter|0.30mm orange wire.|
+| 1 meter|0.30mm red wire.|
+| 1 meter|0.30mm any color wire, to connect the OFF push botton to the breadboard.|
+| 1 meter|0.30mm any color wire, to connect the RESET push botton to the breadboard.|
+| 15 ~ 20|Nylon cable ties.|
+| 4 |Allen Bolt M5x6 Cylindrical Head.|
+| 8 |Allen Bolt M5x6 Flat Head.|
+| 4 |Hammer Nut M5.|
+| 1 |Thick paper sheet (if you want to print the panel).|
 | ~ 125g | PLA 3D print filament.|
 
 

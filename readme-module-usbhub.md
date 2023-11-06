@@ -8,7 +8,7 @@ This module is intended to provide USB connectivity from the CPU to other device
 
 ## Schematics
 
-![USB Power Module Schematics](images/schematics/schematics-usbhubmodule.jpg)
+![USB Hub Module Schematics](images/schematics/schematics-usbhubmodule.jpg)
 
 ## 3D Printed Parts
 
@@ -24,7 +24,6 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 6|[usbhub.panel.powerpanel.stl](./3dprint/usbhub/usbhub.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
 | 7|[usbhub.panel.handler.stl](./3dprint/usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
-
 ![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-usbhub.jpg)
 
 ## Paper Printed Parts
@@ -39,14 +38,14 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 
 Qty|Description|
 |---|---|
-|  1| USB Hub. I found mine in [this link](https://pt.aliexpress.com/item/1005001774949015.html). |
-| some|Nylon cable ties.|
-|  4|Allen Bolt M5x6 Cylindrical Head.|
-|  8|Allen Bolt M5x6 Flat Head.|
-|  4|Hammer Nut M5.|
+| 1 | USB Hub. I found mine in [this link](https://pt.aliexpress.com/item/1005001774949015.html). |
+| 1 |Margirius lever microswitch bipolar with 2 positions (on/off).|
+| 5 ~ 8|Nylon cable ties.|
+| 4 |Allen Bolt M5x6 Cylindrical Head.|
+| 8 |Allen Bolt M5x6 Flat Head.|
+| 4 |Hammer Nut M5.|
+| 1 |Thick paper sheet (if you want to print the panel).|
 | ~ 125g | PLA 3D print filament.|
-
-
 
 ## Nuts and Bolts
 
@@ -67,5 +66,3 @@ Picture|Description|
 ![USB Hub Module (left)](images/pictures/picture-usbhub-004.jpg)
 
 ![USB Hub](images/pictures/picture-usbhub-005.jpg)
-
-

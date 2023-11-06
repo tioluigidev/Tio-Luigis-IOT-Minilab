@@ -31,7 +31,6 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 9|[psu.panel.meterpanel.stl](./3dprint/psu/psu.panel.meterpanel.stl) |1|0.4|No|Power meter front base.|
 |10|[psu.panel.handler.stl](./3dprint/psu/psu.panel.handler.stl)       |2|0.4|Maybe|Left and right module handler. I used supports.|
 
-
 ![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-psu.jpg)
 
 ## Paper Printed Parts
@@ -61,14 +60,13 @@ Qty|Description|
 | 1 meter|2.5mm brown wire, for internal wiring. Maybe you don´t need this, if you use the power strip cord.|
 | 1 ~ 2 meters|0.30mm wire, for connect the ATX Power Switch and the Potentiometer to the ATX breakout module.|
 | 1 ~ 2 meters|Main power cord with plug.|
-| A lot|Nylon cable ties.|
+| 20 ~ 30|Nylon cable ties.|
 |  8|Allen Bolt M5x6 Cylindrical Head.|
 | 24|Allen Bolt M5x6 Flat Head.|
 |  4|Spring Washer 5mm.|
 | 12|Hammer Nut M5.|
 |  8|Allen Bolt M3x20 with washer and pressure bolt.|
 | ~ 320g | PLA 3D print filament. |
-
 
 ## Nuts and Bolts
 

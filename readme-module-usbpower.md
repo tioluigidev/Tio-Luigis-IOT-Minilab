@@ -24,7 +24,6 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 5|[usbpower.panel.powerpanel.stl](./3dprint/usbpower/usbpower.panel.powerpanel.stl)|1|0.4|No|Power switch protector.|
 | 6|[usbpower.panel.handler.stl](./3dprint/usbpower/usbpower.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
-
 ![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-usbpower.jpg)
 
 ## Paper Printed Parts
@@ -40,13 +39,14 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 Qty|Description|
 |---|---|
 |  1| USB Charger. I found mine in [this link](https://pt.aliexpress.com/item/32979578903.html), but I don´t know if "Tongdaytech" is the brand or the name of the shop. |
-| some|Nylon cable ties.|
+| 1 |Margirius lever microswitch bipolar with 2 positions (on/off).|
+| 1 meter|0.30mm black wire.|
+| 5 ~ 10|Nylon cable ties.|
 | 10|Allen Bolt M5x6 Cylindrical Head.|
-|  4|Allen Bolt M5x6 Flat Head.|
-|  4|Hammer Nut M5.|
+| 4 |Allen Bolt M5x6 Flat Head.|
+| 4 |Hammer Nut M5.|
+| 1 |Thick paper sheet (if you want to print the panel).|
 | ~ 130g | PLA 3D print filament.|
-
-
 
 ## Nuts and Bolts
 
