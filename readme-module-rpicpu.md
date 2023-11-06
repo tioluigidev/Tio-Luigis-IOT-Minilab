@@ -2,7 +2,7 @@
 
 ## Description
 
-![PSU Module](images/panels/panel-usbhub.jpg)
+![Raspberry Pi CPU Module](images/panels/panel-rpicpu.jpg)
 
 ...
 
@@ -16,13 +16,13 @@ To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Som
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
-| 1|[usbhub.base.stl](./3dprint/usbhub/usbhub.base.stl)|1|0.8|No|Module base.|
-| 2|[usbhub.innersupport.left.stl](./3dprint/usbhub/usbhub.innersupport.left.stl)|1|0.4|Maybe|Left inner support for the usb hub circuit.|
-| 3|[usbhub.innersupport.right.stl](./3dprint/usbhub/usbhub.innersupport.right.stl)|1|0.4|Maybe|Right inner support for the usb hub circuit.|
-| 4|[usbhub.innersupport.middle.stl](./3dprint/usbhub/usbhub.innersupport.middle.stl) |1|0.4|No|Main inner support for the usb hub circuit.|
-| 5|[usbhub.panel.front.stl](./3dprint/usbhub/usbhub.panel.front.stl) |1|0.8|No|Front panel for the module.|
-| 6|[usbhub.panel.powerpanel.stl](./3dprint/usbhub/usbhub.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
-| 7|[usbhub.panel.handler.stl](./3dprint/usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
+| 1|[rpicpu.base.stl](./3dprint/rpicpu/rpicpu.base.stl)|1|0.8|No|Module base.|
+| 2|[rpicpu.innersupport.left.stl](./3dprint/rpicpu/rpicpu.innersupport.left.stl)|1|0.4|Maybe|Left inner support for the usb hub circuit.|
+| 3|[rpicpu.innersupport.right.stl](./3dprint/rpicpu/rpicpu.innersupport.right.stl)|1|0.4|Maybe|Right inner support for the usb hub circuit.|
+| 4|[rpicpu.panel.lcdsupport.stl](./3dprint/rpicpu/rpicpu.panel.lcdsupport.stl) |1|0.4|Yes|Inner support for LCD modules.|
+| 5|[rpicpu.panel.front.stl](./3dprint/rpicpu/rpicpu.panel.front.stl) |1|0.8|Yes|Front panel for the module.|
+| 6|[rpicpu.panel.powerpanel.stl](./3dprint/rpicpu/rpicpu.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
+| 7|[rpicpu.panel.handler.stl](./3dprint/rpicpu/rpicpu.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
 
 ![3D Printed Parts for Raspberry Pi CPU Module](images/3dprinted/3dprint-module-rpicpu.jpg)
@@ -58,12 +58,18 @@ Picture|Description|
 
 ## Pictures
 
-![Raspberry Pi CPU Module (whole)](images/pictures/picture-rpicpu-001.jpg)
+![Raspberry Pi CPU Module (panel)](images/pictures/picture-rpicpu-001.jpg)
 
-![Raspberry Pi CPU Module (left)](images/pictures/picture-rpicpu-002.jpg)
+![Raspberry Pi CPU Module (whole)](images/pictures/picture-rpicpu-002.jpg)
 
-![Raspberry Pi CPU (right)](images/pictures/picture-rpicpu-003.jpg)
+![Raspberry Pi CPU Module (left)](images/pictures/picture-rpicpu-003.jpg)
 
-![Raspberry Pi CPU (Raspberry Pi and Cooler)](images/pictures/picture-rpicpu-004.jpg)
+![Raspberry Pi CPU (right)](images/pictures/picture-rpicpu-004.jpg)
 
+![Raspberry Pi CPU (Raspberry Pi and Cooler)](images/pictures/picture-rpicpu-005.jpg)
 
+![400 Points Breadboard](images/pictures/picture-rpicpu-006.jpg)
+
+![Nokia 5110 LCD Display](images/pictures/picture-rpicpu-007.jpg)
+
+![Kit 40 jumpers female-male (min. 10 cm)](images/pictures/picture-rpicpu-008.jpg)

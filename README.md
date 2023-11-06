@@ -20,6 +20,6 @@ This is the open project of my IOT minilab. The process of documenting it is a w
 |Picture|Documentation|
 |---|---|
 |![USB Hub Module](images/thumbs/thumb-usbhub.jpg)|[USB Hub Module](readme-module-usbhub.md)|
-|.|Raspberry Pi CPU Module|
+|![Raspberry Pi CPU Module](images/thumbs/thumb-rpicpu.jpg)|[Raspberry Pi CPU Module](readme-module-rpicpu.md)|
 |![USB Power Module](images/thumbs/thumb-usbpower.jpg)|[USB Power Module](readme-module-usbpower.md)|
 |![PSU Module](images/thumbs/thumb-psu.jpg)|[PSU Module](readme-module-psu.md)|

@@ -58,12 +58,14 @@ Picture|Description|
 
 ## Pictures
 
-![USB Hub Module (whole)](images/pictures/picture-usbhub-001.jpg)
+![USB Hub Module (panel)](images/pictures/picture-usbhub-001.jpg)
 
-![USB Hub Module (right)](images/pictures/picture-usbhub-002.jpg)
+![USB Hub Module (whole)](images/pictures/picture-usbhub-002.jpg)
 
-![USB Hub Module (left)](images/pictures/picture-usbhub-003.jpg)
+![USB Hub Module (right)](images/pictures/picture-usbhub-003.jpg)
 
-![USB Hub](images/pictures/picture-usbhub-004.jpg)
+![USB Hub Module (left)](images/pictures/picture-usbhub-004.jpg)
+
+![USB Hub](images/pictures/picture-usbhub-005.jpg)
 
 
