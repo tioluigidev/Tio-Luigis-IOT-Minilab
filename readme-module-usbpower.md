@@ -2,13 +2,13 @@
 
 ## Description
 
-![PSU Module](images/panels/panel-usbpower.jpg)
+![PSU Module](images/panels/module-usbpower.jpg)
 
 This module is intended to provide energy to devices powered directly by USB ports. These devices may be inside the minilab or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB charger with 4 standard ports and an extra port with Quick Charge 3.0 standard capabilities.
 
 ## Schematics
 
-![USB Power Module Schematics](images/schematics/schematics-usbpowermodule.jpg)
+![USB Power Module Schematics](images/schematics/module-usbpower.jpg)
 Important: It´s necessary to connect any GND point in the Charger to the GND terminal bar at the rear of the rack.
 
 ## 3D Printed Parts
@@ -24,15 +24,15 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 5|[usbpower.panel.powerpanel.stl](./3dprint/usbpower/usbpower.panel.powerpanel.stl)|1|0.4|No|Power switch protector.|
 | 6|[usbpower.panel.handler.stl](./3dprint/usbpower/usbpower.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
-![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-usbpower.jpg)
+![3D Printed Parts for PSU Module](images/3dprint/module-usbpower.jpg)
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
 
-|File|Graphics File|Description|
-|---|---|---|
-|[print.usbpower.panel.pdf](./print/print.usbpower.panel.pdf)|[print.usbpower.panel.zip](./print/print.usbpower.panel.zip)|USB Power Module front panel.|
+|File|Description|
+|---|---|
+|[print.usbpower.panel.pdf](./print/print.usbpower.panel.pdf)|USB Power Module front panel.|
 
 ## Shopping List
 
@@ -52,19 +52,19 @@ Qty|Description|
 
 Picture|Description|
 |---|---|
-|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
 
 ## Pictures
 
-![USB Power Module](images/pictures/picture-usbpower-001.jpg)
+![USB Power Module](images/pictures/module-usbpower-001.jpg)
 
-![USB Power Module (whole)](images/pictures/picture-usbpower-002.jpg)
+![USB Power Module (whole)](images/pictures/module-usbpower-002.jpg)
 
-![USB Power Module (inside right)](images/pictures/picture-usbpower-003.jpg)
+![USB Power Module (inside right)](images/pictures/module-usbpower-003.jpg)
 
-![USB Power Module (inside left)](images/pictures/picture-usbpower-004.jpg)
+![USB Power Module (inside left)](images/pictures/module-usbpower-004.jpg)
 
-![USB Power Charger](images/pictures/picture-usbpower-005.jpg)
+![USB Power Charger](images/pictures/module-usbpower-005.jpg)
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-![PSU Module](images/panels/panel-psu.jpg)
+![PSU Module](images/panels/module-psu.jpg)
 
 The PSU (Power Supply Unity) Module is responsible to power up all the system. It´s the only module designed to be fixed (not so easily removable). The main power switch is a 6A circuit breaker. In my project, I used a circuit breaker with residual current protection, to prevent electrical shock. There is also a power meter with a double display, for voltage and current measuring. The main power line ends in a power strip, in my case with 4 electrical outlets.
 
@@ -12,7 +12,7 @@ The ATX PSU also powers a Workbench Module, used to provide voltage to workbench
 
 ## Schematics
 
-![PSU Module Schematics](images/schematics/schematics-psumodule.jpg)
+![PSU Module Schematics](images/schematics/module-psu.jpg)
 
 ## 3D Printed Parts
 
@@ -31,17 +31,17 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 9|[psu.panel.meterpanel.stl](./3dprint/psu/psu.panel.meterpanel.stl) |1|0.4|No|Power meter front base.|
 |10|[psu.panel.handler.stl](./3dprint/psu/psu.panel.handler.stl)       |2|0.4|Maybe|Left and right module handler. I used supports.|
 
-![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-psu.jpg)
+![3D Printed Parts for PSU Module](images/3dprint/module-psu.jpg)
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
 
-|File|Graphics File|Description|
-|---|---|---|
-|[print.psu.panel.pdf](./print/print.psu.panel.pdf)|[print.psu.panel.zip](./print/print.psu.panel.zip)|PSU Module front panel.|
-|[print.psu.panel.module.pdf](./print/print.psu.panel.module.pdf)|[print.psu.panel.module.zip](./print/print.psu.panel.module.zip)|Workbench PSU Module panel.|
-|[print.rear.labels.pdf](./print/print.rear.labels.pdf)|[print.rear.labels.zip](./print/print.rear.labels.zip)|Rear Terminal Bars labels.|
+|File|Description|
+|---|---|
+|[print.psu.panel.pdf](./print/print.psu.panel.pdf)|PSU Module front panel.|
+|[print.psu.panel.module.pdf](./print/print.psu.panel.module.pdf)|Workbench PSU Module panel.|
+|[print.rear.labels.pdf](./print/print.rear.labels.pdf)|Rear Terminal Bars labels.|
 
 ## Shopping List
 
@@ -72,31 +72,30 @@ Qty|Description|
 
 Picture|Description|
 |---|---|
-|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
-|![PSU Module](images/nutsandbolts/nutsandbolts04.jpg)|Spring Washer 5mm|
-|![PSU Module](images/nutsandbolts/nutsandbolts05.jpg)|Allen Bolt M3x20 (3mm on diameter, 20mm on lenght) with washer and pressure bolt.|
+|![PSU Module](images/nutsandbolts/nutsandbolts-01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-04.jpg)|Spring Washer 5mm|
+|![PSU Module](images/nutsandbolts/nutsandbolts-05.jpg)|Allen Bolt M3x20 (3mm on diameter, 20mm on lenght) with washer and pressure bolt.|
 
 ## Pictures
 
-![PSU Module](images/pictures/picture-psu-001.jpg)
+![PSU Module](images/pictures/module-psu-001.jpg)
 
-![PSU Module (rear)](images/pictures/picture-psu-002.jpg)
+![PSU Module (rear)](images/pictures/module-psu-002.jpg)
 
-![PSU Module (inside right)](images/pictures/picture-psu-003.jpg)
+![PSU Module (inside right)](images/pictures/module-psu-003.jpg)
 
-![PSU Module (inside right)](images/pictures/picture-psu-004.jpg)
+![PSU Module (inside right)](images/pictures/module-psu-004.jpg)
 
-![PSU Module (inside left)](images/pictures/picture-psu-005.jpg)
+![PSU Module (inside left)](images/pictures/module-psu-005.jpg)
 
-![PSU Module (ATX Breakout Module)](images/pictures/picture-psu-006.jpg)
+![PSU Module (ATX Breakout Module)](images/pictures/module-psu-006.jpg)
 
-![ATX Breakout Module, as sold](images/pictures/picture-psu-007.jpg)
+![ATX Breakout Module, as sold](images/pictures/module-psu-007.jpg)
 
-![Circuit Breaker](images/pictures/picture-psu-008.jpg)
+![Circuit Breaker](images/pictures/module-psu-008.jpg)
 
-![Meter](images/pictures/picture-psu-009.jpg)
+![Meter](images/pictures/module-psu-009.jpg)
 
-![Terminal Bar](images/pictures/picture-psu-010.jpg)
-
+![Terminal Bar](images/pictures/module-psu-010.jpg)

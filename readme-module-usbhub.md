@@ -2,13 +2,13 @@
 
 ## Description
 
-![PSU Module](images/panels/panel-usbhub.jpg)
+![PSU Module](images/panels/module-usbhub.jpg)
 
 This module is intended to provide USB connectivity from the CPU to other devices. These devices may be inside the minilab or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB hub with 4 ports. I chose this model because it has the USB ports well away from each other, and this is an important detail for a project I want to do in a near future.
 
 ## Schematics
 
-![USB Hub Module Schematics](images/schematics/schematics-usbhubmodule.jpg)
+![USB Hub Module Schematics](images/schematics/module-usbhub.jpg)
 
 ## 3D Printed Parts
 
@@ -24,15 +24,15 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 6|[usbhub.panel.powerpanel.stl](./3dprint/usbhub/usbhub.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
 | 7|[usbhub.panel.handler.stl](./3dprint/usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
-![3D Printed Parts for PSU Module](images/3dprinted/3dprint-module-usbhub.jpg)
+![3D Printed Parts for PSU Module](images/3dprint/module-usbhub.jpg)
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
 
 |File|Graphics File|Description|
 |---|---|---|
-|[print.usbhub.panel.pdf](./print/print.usbhub.panel.pdf)|[print.usbhub.panel.zip](./print/print.usbhub.panel.zip)|USB Hub Module front panel.|
+|[print.usbhub.panel.pdf](./print/print.usbhub.panel.pdf)|USB Hub Module front panel.|
 
 ## Shopping List
 
@@ -51,18 +51,18 @@ Qty|Description|
 
 Picture|Description|
 |---|---|
-|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
 
 ## Pictures
 
-![USB Hub Module (panel)](images/pictures/picture-usbhub-001.jpg)
+![USB Hub Module (panel)](images/pictures/module-usbhub-001.jpg)
 
-![USB Hub Module (whole)](images/pictures/picture-usbhub-002.jpg)
+![USB Hub Module (whole)](images/pictures/module-usbhub-002.jpg)
 
-![USB Hub Module (right)](images/pictures/picture-usbhub-003.jpg)
+![USB Hub Module (right)](images/pictures/module-usbhub-003.jpg)
 
-![USB Hub Module (left)](images/pictures/picture-usbhub-004.jpg)
+![USB Hub Module (left)](images/pictures/module-usbhub-004.jpg)
 
-![USB Hub](images/pictures/picture-usbhub-005.jpg)
+![USB Hub](images/pictures/module-usbhub-005.jpg)

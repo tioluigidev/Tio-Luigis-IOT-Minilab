@@ -2,13 +2,13 @@
 
 ## Description
 
-![Raspberry Pi CPU Module](images/panels/panel-rpicpu.jpg)
+![Raspberry Pi CPU Module](images/panels/module-rpicpu.jpg)
 
 This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to the Raspberry Pi SPI interface. One for system status and another one for application informations. I also decided to use a Ultra Thin Ice Tower Cooler, because in addition to the 2 power wires, it also has a third wire through which the fan speed can be measured. I also decided to use a 400 points breadboard, for a small hacking space.
 
 ## Schematics
 
-![Raspberry Pi CPU Module Schematics](images/schematics/schematics-rpicpumodule.jpg)
+![Raspberry Pi CPU Module Schematics](images/schematics/module-rpicpu.jpg)
 
 ## 3D Printed Parts
 
@@ -24,15 +24,15 @@ Caption|File|Prints|Nozzle|Supports|Description|
 | 6|[rpicpu.panel.powerpanel.stl](./3dprint/rpicpu/rpicpu.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
 | 7|[rpicpu.panel.handler.stl](./3dprint/rpicpu/rpicpu.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
-![3D Printed Parts for Raspberry Pi CPU Module](images/3dprinted/3dprint-module-rpicpu.jpg)
+![3D Printed Parts for Raspberry Pi CPU Module](images/3dprint/module-rpicpu.jpg)
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
 
-|File|Graphics File|Description|
-|---|---|---|
-|[print.rpicpu.panel.pdf](./print/print.rpicpu.panel.pdf)|[print.rpicpu.panel.zip](./print/print.rpicpu.panel.zip)|Raspberry Pi CPU Module front panel.|
+|File|Description|
+|---|---|
+|[print.rpicpu.panel.pdf](./print/print.rpicpu.panel.pdf)|Raspberry Pi CPU Module front panel.|
 
 ## Shopping List
 
@@ -63,24 +63,24 @@ Qty|Description|
 
 Picture|Description|
 |---|---|
-|![PSU Module](images/nutsandbolts/nutsandbolts01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
-|![PSU Module](images/nutsandbolts/nutsandbolts03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-01.jpg)|Allen Bolt M5x6 Cylindrical Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-02.jpg)|Allen Bolt M5x6 Flat Head (5mm on diameter, 6mm on length)|
+|![PSU Module](images/nutsandbolts/nutsandbolts-03.jpg)|Hammer Nut M5 (for 5mm diameter bolts)|
 
 ## Pictures
 
-![Raspberry Pi CPU Module (panel)](images/pictures/picture-rpicpu-001.jpg)
+![Raspberry Pi CPU Module (panel)](images/pictures/module-rpicpu-001.jpg)
 
-![Raspberry Pi CPU Module (whole)](images/pictures/picture-rpicpu-002.jpg)
+![Raspberry Pi CPU Module (whole)](images/pictures/module-rpicpu-002.jpg)
 
-![Raspberry Pi CPU Module (left)](images/pictures/picture-rpicpu-003.jpg)
+![Raspberry Pi CPU Module (left)](images/pictures/module-rpicpu-003.jpg)
 
-![Raspberry Pi CPU (right)](images/pictures/picture-rpicpu-004.jpg)
+![Raspberry Pi CPU (right)](images/pictures/module-rpicpu-004.jpg)
 
-![Raspberry Pi CPU (Raspberry Pi and Cooler)](images/pictures/picture-rpicpu-005.jpg)
+![Raspberry Pi CPU (Raspberry Pi and Cooler)](images/pictures/module-rpicpu-005.jpg)
 
-![400 Points Breadboard](images/pictures/picture-rpicpu-006.jpg)
+![400 Points Breadboard](images/pictures/module-rpicpu-006.jpg)
 
-![Nokia 5110 LCD Display](images/pictures/picture-rpicpu-007.jpg)
+![Nokia 5110 LCD Display](images/pictures/module-rpicpu-007.jpg)
 
-![Kit 40 jumpers female-male (min. 10 cm)](images/pictures/picture-rpicpu-008.jpg)
+![Kit 40 jumpers female-male (min. 10 cm)](images/pictures/module-rpicpu-008.jpg)
