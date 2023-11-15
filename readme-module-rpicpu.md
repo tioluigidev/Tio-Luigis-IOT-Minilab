@@ -34,6 +34,25 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 |---|---|
 |[print.rpicpu.panel.pdf](./print/print.rpicpu.panel.pdf)|Raspberry Pi CPU Module front panel.|
 
+## Software
+
+
+```bash
+pip install RPi.GPIO
+pip install Adafruit_GPIO
+pip install pillow
+
+sudo apt-get install git
+git clone https://github.com/adafruit/Adafruit_Nokia_LCD.git
+cd Adafruit_Nokia_LCD
+sudo python setup.py install
+cd ..
+
+python src/monitor.py
+
+```
+
+
 ## Shopping List
 
 Qty|Description|
