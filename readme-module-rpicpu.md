@@ -6,6 +6,8 @@
 
 This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to the Raspberry Pi 4 SPI interface. One for system status and another one for application informations. I decided to use the Ultra Thin Ice Tower Cooler, because in addition to the 2 power wires, it also has a third wire through which the fan speed can be measured. I also decided to use a 400 points breadboard, for a small hacking space.
 
+There is also two push buttons: one for RESET and another one for OFF functions. The pressing of theese buttons is handled by the "monitor.py" software in "src" directory.  
+
 ## Schematics
 
 ![Raspberry Pi CPU Module Schematics](images/schematics/module-rpicpu.jpg)
@@ -52,6 +54,12 @@ cd ..
 python src/monitor.py
 ```
 PS: Don´t forget to activate the SPI interface in the Raspberry configuration tool ( raspi-config -> Interface Options -> P4 SPI -> Enable it).
+
+If you want that this software is automatically executed on boot, just modify the "/etc/rc.local" adding the following line, where "path-to-src" is the complete path to the src/monitor.py file:
+
+```bash
+python path-to-src/monitor.py
+```
 
 ## Shopping List
 

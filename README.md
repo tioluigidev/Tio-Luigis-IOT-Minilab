@@ -31,6 +31,15 @@ I hope you enjoy it :)
 |![Rear](images/thumbs/rear.jpg)|[Rear](readme-rear.md)|
 |![Structure](images/thumbs/structure.jpg)|[Structure](readme-structure.md)|
 
+## Extras
+
+Some optional stuffs that may be usefull:
+
+|Picture|Documentation|
+|---|---|
+|![Support for velcro strap](images/thumbs/extra-velcrostrap.jpg)|[Support for velcro strap](readme-extra-velcrostrap.md)|
+|![Mini LCD monitor](images/thumbs/extra-minilcdmonitor.jpg)|[Mini LCD monitor](readme-extra-minilcdmonitor.md)|
+
 ## Blender Project
 
 This minilab was designed on Blender 3D software. You can download the Blender project file [here](project/minilab.blend).
