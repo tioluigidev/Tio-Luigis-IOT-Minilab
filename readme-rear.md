@@ -2,11 +2,11 @@
 
 ## Description
 
-This is the rear part of the rack, where are all the module´s back cover and where the power strip are fixed on. 
+This is the rear part of the minilab rack, where are all the module´s back cover and where the power strip are fixed on. 
 
 ## 3D Printed Parts
 
-To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. The original editable .blend files are also included in the "3dprint" directory.
+To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain (where aesthetics were not so important). For all the other parts, I used 0.4mm nozzle. The original editable Blender files are also included in the "3dprint" directory.
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|

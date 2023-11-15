@@ -4,7 +4,7 @@
 
 ![Raspberry Pi CPU Module](images/panels/module-rpicpu.jpg)
 
-This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to the Raspberry Pi SPI interface. One for system status and another one for application informations. I also decided to use a Ultra Thin Ice Tower Cooler, because in addition to the 2 power wires, it also has a third wire through which the fan speed can be measured. I also decided to use a 400 points breadboard, for a small hacking space.
+This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to the Raspberry Pi 4 SPI interface. One for system status and another one for application informations. I decided to use the Ultra Thin Ice Tower Cooler, because in addition to the 2 power wires, it also has a third wire through which the fan speed can be measured. I also decided to use a 400 points breadboard, for a small hacking space.
 
 ## Schematics
 
@@ -12,7 +12,7 @@ This module is "a brain" for the minilab. I connected 2 Nokia 5110 displays to t
 
 ## 3D Printed Parts
 
-To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. The original editable .blend files are also included in the "3dprint" directory.
+To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain (where aesthetics were not so important). For all the other parts, I used 0.4mm nozzle. The original editable Blender files are also included in the "3dprint" directory.
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Caption|File|Prints|Nozzle|Supports|Description|
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the "print" directory.
 
 |File|Description|
 |---|---|
@@ -36,6 +36,7 @@ I used inkjet printer and an off-white 180g/m2 paper to make the front panel of 
 
 ## Software
 
+In "src" directory there is a small software in Python language, that I used to start up the LCDs and display some "Hello World" test message. To install the requirements for this software, just follow the following steps:
 
 ```bash
 pip install RPi.GPIO
@@ -49,9 +50,8 @@ sudo python setup.py install
 cd ..
 
 python src/monitor.py
-
 ```
-
+PS: Don´t forget to activate the SPI interface in the Raspberry configuration tool ( raspi-config -> Interface Options -> P4 SPI -> Enable it).
 
 ## Shopping List
 

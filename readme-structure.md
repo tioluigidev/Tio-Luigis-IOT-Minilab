@@ -2,12 +2,14 @@
 
 ## Description
 
-This is the rear part of the rack, where are all the module´s back cover and where the power strip are fixed on. 
+This is all the metal parts and casters that forms the rack structure. 
 
 ## Schematics
 
 ![Structure Parts](images/schematics/structure-01.jpg)
-Square size of the grid = 1cm:
+
+Square size of the grid below = 1cm:
+
 ![Structure Parts](images/schematics/structure-02.jpg)
 ![Structure Parts](images/schematics/structure-03.jpg)
 ![Structure Parts](images/schematics/structure-04.jpg)

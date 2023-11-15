@@ -4,7 +4,7 @@
 
 ![PSU Module](images/panels/module-usbpower.jpg)
 
-This module is intended to provide energy to devices powered directly by USB ports. These devices may be inside the minilab or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB charger with 4 standard ports and an extra port with Quick Charge 3.0 standard capabilities.
+This module is intended to power up the devices with USB power cords. These devices may be inside the minilab rack mount or outside (on a workbench, for example). I did´t built it from stratch. Instead, I used an USB charger with 4 ports and an extra port with Quick Charge 3.0 standard capabilities.
 
 ## Schematics
 
@@ -13,7 +13,7 @@ Important: It´s necessary to connect any GND point in the Charger to the GND te
 
 ## 3D Printed Parts
 
-To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain. For all the other parts, I used 0.4mm nozzle. The original editable .blend files are also included in the "3dprint" directory.
+To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain (where aesthetics were not so important). For all the other parts, I used 0.4mm nozzle. The original editable Blender files are also included in the "3dprint" directory.
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Caption|File|Prints|Nozzle|Supports|Description|
 
 ## Paper Printed Parts
 
-I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the print directory.
+I used inkjet printer and an off-white 180g/m2 paper to make the front panel of the modules. In Brazil, this paper is known as "Color Plus 180g Marfim". To create these files, I used a software called "Graphics", that works on Mac. The original editable Graphics file for each print is in the "print" directory.
 
 |File|Description|
 |---|---|

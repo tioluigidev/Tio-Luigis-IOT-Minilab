@@ -4,8 +4,8 @@
 
 ## Description
 
-This is my IoT minilab. A platform to develop projects and experiments involving the internet of things / web of things and digital electronics.
-This is an open source project and you will find all the necessary information to reproduce this project, modify it, contribute, etc.
+This is my IoT minilab. A platform to make projects and experiments involving the internet of things and electronics.
+This is an open source project and you will find all necessary information to reproduce this project, modify it, contribute with it, etc.
 
 I hope you enjoy it :)
 
@@ -13,12 +13,12 @@ I hope you enjoy it :)
 
 ## Features
 
-- Rack mounted in a "maker style" so you can easily modify, extend, create new modules, etc.
-- You also can use it as a workbench tool.
-- ATX PSU (3.3V, 5V, 12V and adjustable voltage) for the modules and for the workbench.
-- USB PSU/charger, for those devices in the rack or on the workbench, that uses USB power cord .
-- Small CPU module with USB hub for conecting to your IOT devices (yes, in the rack or on the workbench).
-- Use ready-made parts, so you don´t have to make printed circuit boards!
+- Rack mounted in a "maker style", so you can easily modify it, extend it, create new modules, etc.
+- You can also use it as a workbench tool.
+- ATX PSU (3.3V, 5V, 12V and adjustable voltage) for the built-in modules and for the workbench experiments and tests.
+- USB PSU/charger, for those devices that uses USB power cord, inside the rack or on the workbench.
+- Small CPU module with USB hub for conecting to your IOT devices (yes yes, inside the rack or on the workbench).
+- It uses ready-made parts, so you don´t have to make printed circuit boards!
 
 ## Structure and Modules
 
@@ -33,5 +33,5 @@ I hope you enjoy it :)
 
 ## Blender Project
 
-This minilab was designed and planned on Blender 3D softwares. You can download the project file [here](project/minilab.blend).
+This minilab was designed on Blender 3D software. You can download the Blender project file [here](project/minilab.blend).
 ![Project](project/minilab.jpg)
