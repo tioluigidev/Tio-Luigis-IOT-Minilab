@@ -16,13 +16,13 @@ To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Som
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
-| 1|[usbhub.base.stl](./3dprint/usbhub/usbhub.base.stl)|1|0.8|No|Module base.|
-| 2|[usbhub.innersupport.left.stl](./3dprint/usbhub/usbhub.innersupport.left.stl)|1|0.4|Maybe|Left inner support for the usb hub circuit.|
-| 3|[usbhub.innersupport.right.stl](./3dprint/usbhub/usbhub.innersupport.right.stl)|1|0.4|Maybe|Right inner support for the usb hub circuit.|
-| 4|[usbhub.innersupport.middle.stl](./3dprint/usbhub/usbhub.innersupport.middle.stl) |1|0.4|No|Main inner support for the usb hub circuit.|
-| 5|[usbhub.panel.front.stl](./3dprint/usbhub/usbhub.panel.front.stl) |1|0.8|No|Front panel for the module.|
-| 6|[usbhub.panel.powerpanel.stl](./3dprint/usbhub/usbhub.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
-| 7|[usbhub.panel.handler.stl](./3dprint/usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
+| 1|[usbhub.base.stl](./3dprint/module-usbhub/usbhub.base.stl)|1|0.8|No|Module base.|
+| 2|[usbhub.innersupport.left.stl](./3dprint/module-usbhub/usbhub.innersupport.left.stl)|1|0.4|Maybe|Left inner support for the usb hub circuit.|
+| 3|[usbhub.innersupport.right.stl](./3dprint/module-usbhub/usbhub.innersupport.right.stl)|1|0.4|Maybe|Right inner support for the usb hub circuit.|
+| 4|[usbhub.innersupport.middle.stl](./3dprint/module-usbhub/usbhub.innersupport.middle.stl) |1|0.4|No|Main inner support for the usb hub circuit.|
+| 5|[usbhub.panel.front.stl](./3dprint/module-usbhub/usbhub.panel.front.stl) |1|0.8|No|Front panel for the module.|
+| 6|[usbhub.panel.powerpanel.stl](./3dprint/module-usbhub/usbhub.panel.powerpanel.stl)|1|0.4|No|Module switch protector.|
+| 7|[usbhub.panel.handler.stl](./3dprint/module-usbhub/usbhub.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
 ![3D Printed Parts for PSU Module](images/3dprint/module-usbhub.jpg)
 

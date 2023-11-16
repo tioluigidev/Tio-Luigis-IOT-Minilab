@@ -20,16 +20,16 @@ To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Som
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
-| 1|[psu.base.stl](./3dprint/psu/psu.base.stl)|1|0.8|No|Module base, wich supports the ATX PSU.|
-| 2|[psu.cableguide.stl](./3dprint/psu/psu.cableguide.stl)|1|0.8|Maybe|Inner cable guide. I didn't use supports.|
-| 3|[psu.circuitbreakersupport.stl](./3dprint/psu/psu.circuitbreakersupport.stl)|1|0.8|No|Circuit breaker support. Necessary to keep the circuit breaker in the correct position and tight attached to the front panel.|
-| 4|[psu.potentiometersupport.stl](./3dprint/psu/psu.panel.potentiometersupport.stl) |1|0.4|Yes|Adjustable voltage potentiometer support. Necessary to keep the potentiometer in the correct position and tight attached to the front panel.|
-| 5|[psu.panel.front.stl](./3dprint/psu/psu.panel.front.stl)                 |1|0.8|No|Front panel, where all other panel components are attached to.|
-| 6|[psu.panel.modulecover1.stl](./3dprint/psu/psu.panel.modulecover1.stl)   |1|0.4|No|Workbench module base.|
-| 7|[psu.panel.modulecover2.stl](./3dprint/psu/psu.panel.modulecover2.stl)   |1|0.4|No|Workbench module cover.|
-| 8|[psu.panel.circuitbreakerpanel.stl](./3dprint/psu/psu.panel.circuitbreakerpanel.stl)|1|0.4|No|Circuit breaker front protector.|
-| 9|[psu.panel.meterpanel.stl](./3dprint/psu/psu.panel.meterpanel.stl) |1|0.4|No|Power meter front base.|
-|10|[psu.panel.handler.stl](./3dprint/psu/psu.panel.handler.stl)       |2|0.4|Maybe|Left and right module handler. I used supports.|
+| 1|[psu.base.stl](./3dprint/module-psu/psu.base.stl)|1|0.8|No|Module base, wich supports the ATX PSU.|
+| 2|[psu.cableguide.stl](./3dprint/module-psu/psu.cableguide.stl)|1|0.8|Maybe|Inner cable guide. I didn't use supports.|
+| 3|[psu.circuitbreakersupport.stl](./3dprint/module-psu/psu.circuitbreakersupport.stl)|1|0.8|No|Circuit breaker support. Necessary to keep the circuit breaker in the correct position and tight attached to the front panel.|
+| 4|[psu.potentiometersupport.stl](./3dprint/module-psu/psu.panel.potentiometersupport.stl) |1|0.4|Yes|Adjustable voltage potentiometer support. Necessary to keep the potentiometer in the correct position and tight attached to the front panel.|
+| 5|[psu.panel.front.stl](./3dprint/module-psu/psu.panel.front.stl)                 |1|0.8|No|Front panel, where all other panel components are attached to.|
+| 6|[psu.panel.modulecover1.stl](./3dprint/module-psu/psu.panel.modulecover1.stl)   |1|0.4|No|Workbench module base.|
+| 7|[psu.panel.modulecover2.stl](./3dprint/module-psu/psu.panel.modulecover2.stl)   |1|0.4|No|Workbench module cover.|
+| 8|[psu.panel.circuitbreakerpanel.stl](./3dprint/module-psu/psu.panel.circuitbreakerpanel.stl)|1|0.4|No|Circuit breaker front protector.|
+| 9|[psu.panel.meterpanel.stl](./3dprint/module-psu/psu.panel.meterpanel.stl) |1|0.4|No|Power meter front base.|
+|10|[psu.panel.handler.stl](./3dprint/module-psu/psu.panel.handler.stl)       |2|0.4|Maybe|Left and right module handler. I used supports.|
 
 ![3D Printed Parts for PSU Module](images/3dprint/module-psu.jpg)
 

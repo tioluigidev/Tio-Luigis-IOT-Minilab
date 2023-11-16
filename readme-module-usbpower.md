@@ -17,12 +17,12 @@ To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Som
 
 Caption|File|Prints|Nozzle|Supports|Description|
 |---|---|---|---|---|---|
-| 1|[usbpower.base.stl](./3dprint/usbpower/usbpower.base.stl)|1|0.8|No|Module base.|
-| 2|[usbpower.innersupport.left.stl](./3dprint/usbpower/usbpower.innersupport.left.stl)|1|0.4|Yes|Left inner support for the usb charger circuit.|
-| 3|[usbpower.innersupport.right.stl](./3dprint/usbpower/usbpower.innersupport.right.stl)|1|0.4|Yes|Right inner support for the usb charger circuit.|
-| 4|[usbpower.panel.front.stl](./3dprint/usbpower/usbpower.panel.front.stl) |1|0.8|No|Front panel for the module.|
-| 5|[usbpower.panel.powerpanel.stl](./3dprint/usbpower/usbpower.panel.powerpanel.stl)|1|0.4|No|Power switch protector.|
-| 6|[usbpower.panel.handler.stl](./3dprint/usbpower/usbpower.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
+| 1|[usbpower.base.stl](./3dprint/module-usbpower/usbpower.base.stl)|1|0.8|No|Module base.|
+| 2|[usbpower.innersupport.left.stl](./3dprint/module-usbpower/usbpower.innersupport.left.stl)|1|0.4|Yes|Left inner support for the usb charger circuit.|
+| 3|[usbpower.innersupport.right.stl](./3dprint/module-usbpower/usbpower.innersupport.right.stl)|1|0.4|Yes|Right inner support for the usb charger circuit.|
+| 4|[usbpower.panel.front.stl](./3dprint/module-usbpower/usbpower.panel.front.stl) |1|0.8|No|Front panel for the module.|
+| 5|[usbpower.panel.powerpanel.stl](./3dprint/module-usbpower/usbpower.panel.powerpanel.stl)|1|0.4|No|Power switch protector.|
+| 6|[usbpower.panel.handler.stl](./3dprint/module-usbpower/usbpower.panel.handler.stl)|2|0.4|Maybe|Module handlers.|
 
 ![3D Printed Parts for PSU Module](images/3dprint/module-usbpower.jpg)
 
