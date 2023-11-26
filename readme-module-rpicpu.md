@@ -12,6 +12,11 @@ There is also two push buttons: one for RESET and another one for OFF functions.
 
 ![Raspberry Pi CPU Module Schematics](images/schematics/module-rpicpu.jpg)
 
+For the LCD backlight control pins, you have three choices:
+- Leave then unconnected, so the backlights will always be turned off,
+- Connect then to the GND, so the backlights will always be turned on,
+- Connect then to the GPIO 1 and 25 pins (like me), so you can control via software when turn on or off the backlights.
+
 ## 3D Printed Parts
 
 To make the 3d printed parts, I used an Creality Ender 3 similar 3d printer. Some parts I printed with 0.8mm nozzle, just for speed gain (where aesthetics were not so important). For all the other parts, I used 0.4mm nozzle. The original editable Blender files are also included in the "3dprint" directory.
