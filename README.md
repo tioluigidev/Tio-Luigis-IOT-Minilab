@@ -1,4 +1,4 @@
-# Tio Luigi´s IOT Minilab
+# My IOT Minilab
 
 ![Tio Luigi´s IOT Minilab](images/pictures/minilab-001.jpg)
 
